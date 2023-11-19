@@ -5,7 +5,7 @@
 A passionate Undergraduate Software Engineer & MERN Stack developer.
 
 <h3 align="left">Connect with me 🌐</h3>
-<a href="https://www.linkedin.com/in/jawad-mohsin/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/jawadmohsin/" target="_blank" rel="noopener noreferrer">
   <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  />
 </a>
 
