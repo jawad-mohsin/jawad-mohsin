@@ -2,7 +2,7 @@
 
 # Hi :wave: I'm Jawad Mohsin 
 
-A passionate Undergraduate Software Engineer & MERN Stack developer.
+A passionate Undergraduate Software Engineer & a Full Stack developer.
 
 <h3 align="left">Connect with me 🌐</h3>
 <a href="https://www.linkedin.com/in/jawadmohsin/" target="_blank" rel="noopener noreferrer">
@@ -40,6 +40,7 @@ A passionate Undergraduate Software Engineer & MERN Stack developer.
 - JavaScript
 - Node.js   
 - React.js
+- Vue.js
 - Express.js
 - MongoDB
 - HTML, CSS
@@ -51,7 +52,7 @@ A passionate Undergraduate Software Engineer & MERN Stack developer.
 
 - C# 
 - Java
-- Python (sort of)
+- Python
 
 ## What I'm currently learning 📚
 
