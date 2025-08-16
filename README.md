@@ -1,75 +1,39 @@
-# <p align="center"> <img src="https://komarev.com/ghpvc/?username=jawad-mohsin&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+# 👋 Hey, I'm Jawad Mohsin  
 
-# Hi :wave: I'm Jawad Mohsin 
+💻 **Full Stack Developer** | 📱 **iOS Engineer** | 🌍 **Tech Explorer**  
 
-A passionate Undergraduate Software Engineer & a Full Stack developer.
+I love building apps that people actually *enjoy using*. From crafting smooth iOS experiences in **SwiftUI** to architecting full-stack platforms with **Next.js & Nest.js**, I bring ideas to life with clean code and modern design.  
 
-<h3 align="left">Connect with me 🌐</h3>
-<a href="https://www.linkedin.com/in/jawadmohsin/" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="24px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-1024.png"  />
-</a>
+✨ My focus: **Performance. Scalability. Great UX.**  
 
-<a href="https://www.instagram.com/jawad.mohsinn" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="24px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png"  />
-</a>
+---
 
-<a href="mailto:jawadmohsin1147@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-256.png" />
-</a>
+## 🚀 What I Build With  
 
-<br>
-<br>
-<details>
-<summary>
-  More stuff about me
-</summary>
+🔹 **Mobile** → Swift, SwiftUI, Firebase, ARKit, MapKit, AVFoundation  
+🔹 **Frontend** → React, Next.js, React Native, TailwindCSS  
+🔹 **Backend** → Nest.js, Node.js, MongoDB, PostgreSQL, GraphQL, AWS  
+🔹 **Design** → Figma (because devs can design too 😎)  
 
+---
 
-
-
-### Carrer Objective 🎯
-
-- 🎓 Enthusiastic Software Engineering student currently pursuing a Bachelor's degree, seeking an opportunity to apply my diverse programming skills effectively.
-- 🚀 With a foundation in various languages and frameworks, I am poised to contribute and advance my professional development.
-- 👨‍💻 A dedicated person who thrives on collaborative problem-solving and eager to bring his passion and skills to innovative projects.
-
-## My skills 📜
-
-### Web technologies 🌐
-
-- JavaScript
-- Node.js   
-- React.js
-- Vue.js
-- Express.js
-- MongoDB
-- HTML, CSS
-- Tailwind CSS
-- MySQL
-
- 
-### Application Development 💻
-
-- C# 
-- Java
-- Python
-
-## What I'm currently learning 📚
-
-- Diving into Advance React.js
-- Next.js's magic
-
-## Stats
-
-#### GitHub stats 
-
+## 📊 My GitHub in Action  
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jawad-mohsin&show_icons=true&count_private=true&locale=en&theme=great-gatsby&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawad-mohsin&langs_count=10&show_icons=true&locale=en&theme=great-gatsby" alt="jawad-mohsin" height="230px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jawad-mohsin&show_icons=true&theme=radical&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jawad-mohsin&layout=compact&theme=radical" height="180px"/>
 </p>
 
+---
 
-</details>
+## 🌍 Let's Connect  
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jawadmohsin/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jawad.mohsinn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:jawadmohsin1147@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+🔥 *“Code is like humor. When you have to explain it, it’s bad.”*  
