@@ -26,8 +26,6 @@ I love building apps that people actually enjoy using. From crafting smooth iOS 
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="30" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
